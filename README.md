@@ -142,4 +142,4 @@ This project is licensed under the [MIT License](LICENSE).
 You are free to use, modify, and distribute this code for personal or commercial purposes.  
 **Attribution is required** — please retain the license notice and credit the original author.
 
-© 2024 [[Baseer Hassan Shah](https://github.com/baseershah7)]
+© 2024 [[Ali Shan](https://github.com/alishan45)]
