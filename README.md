@@ -134,7 +134,7 @@ pip install polars lightgbm xgboost scikit-learn imbalanced-learn
 ```
 This solution leverages blockchain-specific behavioral patterns and high-performance data processing to identify tokens likely to graduate versus those prone to rug pulls.
 ## Author
-- [baseershah7](https://github.com/baseershah7)
+- [Ali Shan](https://github.com/alishan45)
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
